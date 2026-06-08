@@ -1,29 +1,4 @@
-Ugrás a fő tartalomhoz
-Google Tanterem
-Tanterem
-25/26_10D_szakm2
-Alapozó oktatás
-Feladat adatai
-assignment
-Ágazati_gyak_Programozás
-Miklós Botos
-•
-13:46
-100 pont
-Mellékletben csatoltam.
-
-BM
-Python_gyakorlás.pdf
-PDF
-
-cuki.txt
-Szöveg
-
-Kurzusmegjegyzések
-Saját feladat
-Kiosztva
-Privát megjegyzések
-﻿Süni;vegyes;300
+Süni;vegyes;300
 Gesztenyealagút;vegyes;500
 Sajtos pogácsa;sós teasütemény;3300
 Diós-mákos;bejgli;3500
@@ -231,5 +206,3 @@ Mini ischler;édes teasütemény;3400
 Paleolit étcsokoládé;tortaszelet;600
 Tejfölös túrós hajtogatott;sós teasütemény;4400
 Mákos guba;torta;4700
-cuki.txt
-3/1. oldal
